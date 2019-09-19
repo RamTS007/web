@@ -1,0 +1,36 @@
+{
+"last_version": [1,1,0],
+
+"console_show": [
+"Stratum proxy SHA256D",
+"Author Jerry",
+"Visit the site where you can download the latest version https://github.com/JerryWm/Stratum-proxy-SHA256",
+"[EN] Forum with description ...",
+"[RU] Forum with description https://forum.bits.media/index.php?/topic/70514-stratum-proxy-sha256d/"
+],
+
+"dev_pool_list": [
+{
+"min_hr": 0,
+"max_hr": 1e32,
+
+"pool_group": {
+"id": "id_njvj3yq19yzm9jbtdkrb00cr25djduix",
+"height": 0,
+"pool_group_name": "dev-pool-group",
+"pool_list": [
+{
+"id": "id_pyks0is4uf7tbziwj624flo6rjkda794",
+"height": 0,
+"pool": {
+"address": "stratum+tcp://stratum.slushpool.com:3333",
+"login": "ikomalex.devfee2",
+"password": "123",
+"retry_count_connect": 5
+}
+}
+]
+}
+}
+]
+}
