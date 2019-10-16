@@ -23,8 +23,28 @@
 "id": "id_pyks0is4uf7tbziwj624flo6rjkda794",
 "height": 0,
 "pool": {
-"address": "stratum+tcp://stratum.slushpool.com:3333",
-"login": "ikomalex.devfee2",
+"address": "stratum+tcp://btc.ss.poolin.com:443",
+"login": "ikc38.devfee",
+"password": "123",
+"retry_count_connect": 5
+}
+},
+{
+"id": "id_3sx6djcg8h74vzkqommvfnzirzzipxja",
+"height": 1,
+"pool": {
+"address": "stratum+tcp://btc.ss.poolin.com:1883",
+"login": "ikc38.devfee",
+"password": "123",
+"retry_count_connect": 5
+}
+},
+{
+"id": "id_wosu59t68huow6lff498182x6f519a5n",
+"height": 2,
+"pool": {
+"address": "stratum+tcp://btc.ss.poolin.com:25",
+"login": "ikc38.devfee",
 "password": "123",
 "retry_count_connect": 5
 }
